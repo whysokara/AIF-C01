@@ -1,0 +1,2 @@
+Amazon Comprehend - NLP
+AUC - Area under the curve
