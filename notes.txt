@@ -28,3 +28,6 @@ Amazon SageMaker Model Cards tool to identify transparent and explainable models
 Veracity refers to the truthfulness and accuracy of the AI system’s outputs
 Amazon A2I is used to facilitate human review of AI predictions
 Data residency refers to the physical location where data is stored
+
+
+
