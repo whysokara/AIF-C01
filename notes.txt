@@ -6,6 +6,9 @@ PartyRock - provides a playground for experimenting with generative AI models
 Amazon Q - is designed to provide conversational AI capabilities
 Amazon OpenSearch Service - is suitable for storing embeddings in a vector database
 Amazon Aurora - a service for storing embeddings in databases
+Amazon Macie - is used to discover and protect sensitive data
+AWS Artifact - provides access to AWS compliance reports
+AWS CloudTrail - is used to log API calls and account activity
 
 
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is used for evaluating the quality of generated summaries
@@ -18,3 +21,10 @@ RLHF is used to improve the model’s performance based on human evaluations
 Prompt templating is a technique for creating reusable prompt structures
 BLEU (Bilingual Evaluation Understudy) is used for evaluating the quality of machine translations
 model latent space represents the model’s internal understanding and knowledge
+Guardrails for Amazon Bedrock is used to identify features of responsible AI
+Overfitting refers to when a model performs too well on training data but poorly on new data
+Amazon SageMaker Clarify is mentioned in Task Statement 4.1 as a tool to detect and monitor bias
+Amazon SageMaker Model Cards tool to identify transparent and explainable models.
+Veracity refers to the truthfulness and accuracy of the AI system’s outputs
+Amazon A2I is used to facilitate human review of AI predictions
+Data residency refers to the physical location where data is stored
