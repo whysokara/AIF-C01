@@ -3,9 +3,18 @@ Amazon Polly - is designed for text-to-speech conversion
 Amazon SageMaker - best suited for managing the entire machine learning lifecycle
 Amazon SageMaker Autopilot - best suited for automating the process of identifying the best hyperparameters for a model
 PartyRock - provides a playground for experimenting with generative AI models
-Amazon Q - is designed to provide conversational AI capabilities?
+Amazon Q - is designed to provide conversational AI capabilities
+Amazon OpenSearch Service - is suitable for storing embeddings in a vector database
+Amazon Aurora - a service for storing embeddings in databases
 
+
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is used for evaluating the quality of generated summaries
 F1 score is a model performance metric, not a business metric
 AUC - Area under the curve
 Hallucinations refer to incorrect or fabricated outputs presented as fact by generative AI models.
 nondeterminism - The property of producing different outputs for the same input
+BERTScore is used for evaluating the quality of generated text
+RLHF is used to improve the model’s performance based on human evaluations
+Prompt templating is a technique for creating reusable prompt structures
+BLEU (Bilingual Evaluation Understudy) is used for evaluating the quality of machine translations
+model latent space represents the model’s internal understanding and knowledge
