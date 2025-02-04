@@ -22,8 +22,8 @@ Depending on your ML application, you can choose from one of the Ground Truth bu
 The Amazon Mechanical Turk workforce of over 500,000 independent contractors worldwide.
 A private workforce that you create from your employees or contractors for handling data within your organization.
 A vendor company that you can find in the AWS Marketplace that specializes in data labeling services.
-How SageMaker Ground Truth works: via - https://aws.amazon.com/sagemaker/groundtruth/
-Incorrect options:
+
+
 Amazon SageMaker Feature Store - Amazon SageMaker Feature Store is a fully managed, purpose-built repository to store, share, and manage features for machine learning (ML) models. Features are inputs to ML models used during training and inference. For example, in an application that recommends a music playlist, features could include song ratings, listening duration, and listener demographics.
 Amazon SageMaker JumpStart - Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can evaluate, compare, and select Foundation Models (FMs) quickly based on pre-defined quality and responsibility metrics to perform tasks like article summarization and image generation. Pretrained models are fully customizable for your use case with your data, and you can easily deploy them into production with the user interface or SDK.
 Amazon SageMaker Canvas - SageMaker Canvas offers a no-code interface that can be used to create highly accurate machine learning models —without any machine learning experience or writing a single line of code. SageMaker Canvas provides access to ready-to-use models including foundation models from Amazon Bedrock or Amazon SageMaker JumpStart or you can build your custom ML model using AutoML powered by SageMaker AutoPilot.
